@@ -1,0 +1,22 @@
+
+    body {
+        background-image: url("images/bg.png");
+        background-repeat: repeat;
+        font-family: Neucha, cursive, Calibri;
+        font-size: 20px;
+      }
+  
+      .middle {
+        width: 45%;
+        margin: auto;
+        background: aqua
+      }
+  
+      section {
+        width: 100%;
+        padding-bottom: 10px;
+      }
+  
+      section img {
+        width: 100%;
+      }
